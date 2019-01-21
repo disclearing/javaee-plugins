@@ -1,0 +1,3 @@
+name: QueueSystem
+main: me.redis.queue.bukkit.QueueBukkit
+version: 1.0-RELEASE

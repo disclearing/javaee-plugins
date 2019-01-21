@@ -1,0 +1,15 @@
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\listeners\PlayerListeners.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\profile\rank\Rank.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\redis\RedisMessagingHandler.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\queue\manager\QueueManager.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\commands\JoinQueueCommand.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\commands\PauseQueueCommand.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\commands\QueueStatusCommand.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\tasks\QueueAPITask.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\commands\LeaveQueueCommand.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\QueueProxy.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\utils\Messages.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\profile\rank\RankManager.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\queue\Queue.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\redis\RedisWrapper.java
+D:\Documentos\Sources\Queue\Queue-Proxy\src\main\java\me\redis\queue\proxy\profile\QueuedPlayer.java

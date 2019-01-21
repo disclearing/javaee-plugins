@@ -1,0 +1,66 @@
+DATABASES:
+  REDIS:
+    HOST: "127.0.0.1"
+  MONGO:
+    HOST: "127.0.0.1"
+    NAME: "Ultrahardcore"
+    COLLECTIONS:
+      PROFILES: "Profiles"
+TAB_PREFIXES:
+  ENEMY: "RED"
+  NOCLEAN: "DARK_RED"
+  TEAM: "DARK_GREEN"
+  SPECTATOR: "GRAY"
+whitelist:
+- BeibiRah
+- sonny123_
+- Tomii5826
+- g0dplayer
+- Ivan_Viral5826
+- _Cashes_
+- JuqnZwaqq
+- Andres047Client_
+- ironsite123
+- GokUli8
+- FBK_Jochi23
+- Bania
+- Perryh
+- SuperJA_
+- bykevv
+- Misha3l5826
+- iTzRandyRojas
+- zWeserd_sPs_
+- JulianB53
+- Fozzie1997
+- AikoFuckinGrotti
+- shenian
+- fabio5826
+- Virgoo5826
+- AdrianTeCoje
+- YouNightmareVzL
+- iJouuSkills
+- xReylich18
+- MrBatmaen
+- ImVicentex
+- _Angeluss
+- OmaarJuarez
+- sensesfailed71
+- KnownDestiny
+- MatixLMAO
+- JuanitoVerduras
+- TrapingZaurioWB
+- daddyswift
+- ByDavesc
+- ByDark74
+- Adrigamer08
+- beaguy703
+- JohanPituki
+- DonPendex_
+- ratidcraftrex777
+- renxto
+- Jhojan_ASD
+- Nethca
+- Smxjxb
+- norskgutt42
+- Yeess
+- JavaEE

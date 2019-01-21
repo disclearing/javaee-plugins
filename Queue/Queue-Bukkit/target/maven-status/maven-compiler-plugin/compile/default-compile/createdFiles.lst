@@ -1,0 +1,8 @@
+me\redis\queue\bukkit\rank\Rank.class
+me\redis\queue\bukkit\rank\RankManager.class
+me\redis\queue\bukkit\api\QueueAPI.class
+me\redis\queue\bukkit\tasks\RedisInformationTask.class
+me\redis\queue\bukkit\QueueBukkit.class
+me\redis\queue\bukkit\redis\RedisWrapper.class
+me\redis\queue\bukkit\redis\RedisMessagingHandler.class
+me\redis\queue\bukkit\redis\RedisMessagingHandler$1.class

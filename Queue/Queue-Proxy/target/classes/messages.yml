@@ -1,0 +1,19 @@
+messages:
+  already_queued: "&cYou are already queued."
+  not_queued: "&cYou are not queued."
+  left_queue: "&cYou have left the queue."
+  server_not_valid: "&cThe server you specified is not valid."
+  server_not_online: "&cThe server you specified is not online."
+  position: "&dYou are position &e#%player_position% &din the &e%player_queue% &dqueue."
+  buy:
+    has_rank: "&bYour &a%player_rank% &bhas placed you in front of %infront% players. &cYou can upgrade your rank at &dqueues.com/upgrades"
+    no_rank: "&cYou can buy a rank at &dqueues.com/upgrades &cto get a higher priority."
+  sent_to_server: "&dYou have been sent to &e%player_queue%&d."
+  could_not_locate: "&cWe were unable to locate this server."
+  status:
+    separator: "&7&m-------------------------"
+    lines:
+      - " &a%queue_name% &7(%server_online%/%server_max%)"
+      - " &9 \u2022 &eThe server is %whitelist_status%" # whitelisted / not whitelisted
+      - " &9 \u2022 &eThe queue is %paused_status%" # paused / not paused
+      - " &9 \u2022 &eThere are currently &d%queue_players%&e players in the queue."

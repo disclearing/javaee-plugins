@@ -1,0 +1,6 @@
+main: me.javaee.ffa.FFA
+name: batman
+version: 1.0-SNAPSHOT
+authors: [JavaEE]
+contributors: [Kirchner]
+depend: [Nightmare]

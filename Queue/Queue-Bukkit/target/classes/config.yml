@@ -1,0 +1,18 @@
+license: "here_it_goes_your_license"
+
+redis:
+    address: localhost
+    authentication:
+        enabled: false
+        password: ""
+###########################
+ranks:
+  highroller:
+    node: "queue.rank.highroller"
+    priority: 1
+  pro:
+    node: "queue.rank.pro"
+    priority: 2
+  vip:
+    node: "queue.rank.vip"
+    priority: 3

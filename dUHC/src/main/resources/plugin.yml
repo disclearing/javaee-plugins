@@ -1,0 +1,9 @@
+name: UHC
+main: me.javaee.uhc.UHC
+version: ${git.commit.id.abbrev}
+author: SilexPvP Development Team
+depend: [ProtocolLib, FamousShit, Nightmare]
+commands:
+ helpop:
+  aliases: [request, r, help]
+ list:

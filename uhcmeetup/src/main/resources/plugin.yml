@@ -1,0 +1,11 @@
+name: Meetup
+version: 1.0-SNAPSHOT
+author: JavaEE
+main: me.javaee.meetup.Meetup
+depend: [FamousShit]
+commands:
+ mlg:
+ setkit:
+ vote:
+ reroll:
+ truce:

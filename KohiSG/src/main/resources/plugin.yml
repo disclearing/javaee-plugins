@@ -1,0 +1,5 @@
+main: me.redis.kohi.SurvivalGames
+name: SurvivalGames
+version: 1.0-RELEASE
+load: STARTUP
+depend: [WorldEdit]

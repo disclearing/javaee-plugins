@@ -1,0 +1,4 @@
+name: QueueSystem
+main: me.redis.queue.proxy.QueueProxy
+version: 1.0-RELEASE
+author: Redis

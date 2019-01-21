@@ -1,0 +1,30 @@
+DATABASE:
+  AUTH:
+    HOST: "127.0.0.1"
+    PORT: 27017
+  NAME: "Practice"
+  COLLECTIONS:
+    ARENA: "Arenas"
+    LADDERS: "Ladders"
+    PROFILES: "Profiles"
+WORLD:
+  NAME: "lobby_practice"
+  EDITOR:
+    NAME: "lobby_practice"
+    X: 5
+    Y: 100
+    Z: 6
+SCOREBOARD:
+  SIDEBAR:
+    ENABLED: true
+    TITLE: "&6&lKohi &a[Practice]"
+  NAMETAGS:
+    ENABLED: true
+    COLORS:
+      ENEMY: "RED"
+      MEMBER: "DARK_GREEN"
+      SPECTATOR: "GRAY"
+MATCHES:
+  MINIMUM_UNRANKED: # Minimum unranked matches that are needed to queue for a ranked queue.
+    ENABLED: true
+    NUMBER: 10

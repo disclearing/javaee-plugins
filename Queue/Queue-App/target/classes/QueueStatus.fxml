@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.effect.SepiaTone?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="137.0" prefWidth="192.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="me.redis.queue.app.MainController">
+    <effect>
+        <SepiaTone level="0.55" />
+    </effect>
+    <Text layoutX="14.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Remember, this is in beta" textAlignment="JUSTIFY" underline="true" />
+    <ChoiceBox fx:id="list" layoutX="14.0" layoutY="13.0" prefHeight="25.0" prefWidth="158.0" />
+    <Text layoutX="13.0" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Online/Max:" textAlignment="JUSTIFY" underline="true" />
+    <Text layoutX="14.0" layoutY="109.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Whitelisted:" textAlignment="JUSTIFY" underline="true" />
+    <Text layoutX="14.0" layoutY="133.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Paused:" textAlignment="JUSTIFY" underline="true" visible="false" />
+    <Text fx:id="players" layoutX="93.0" layoutY="83.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0/-1" textAlignment="JUSTIFY" underline="true" />
+    <Text fx:id="whitelist" layoutX="91.0" layoutY="109.0" strokeType="OUTSIDE" strokeWidth="0.0" text="n/a" textAlignment="JUSTIFY" underline="true" />
+    <Text fx:id="paused" layoutX="93.0" layoutY="133.0" strokeType="OUTSIDE" strokeWidth="0.0" text="no" textAlignment="JUSTIFY" underline="true" visible="false" />
+</AnchorPane>

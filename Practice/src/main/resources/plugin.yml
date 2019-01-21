@@ -1,0 +1,4 @@
+main: me.redis.practice.Practice
+name: Practice
+version: 1.0-RELEASE
+author: Redis

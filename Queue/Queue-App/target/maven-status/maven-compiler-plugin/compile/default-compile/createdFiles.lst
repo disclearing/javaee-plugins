@@ -1,0 +1,6 @@
+me\redis\queue\app\api\manager\QueueManager.class
+me\redis\queue\app\MainController.class
+me\redis\queue\app\MainController$1.class
+me\redis\queue\app\redis\RedisWrapper.class
+me\redis\queue\app\QueueApplication.class
+me\redis\queue\app\api\Queue.class

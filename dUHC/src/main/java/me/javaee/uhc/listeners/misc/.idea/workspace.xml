@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e19cfd-b330-49e7-8737-ddc2739a733f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/MeetupModule/target/" />
+    <ignored path="$PROJECT_DIR$/LobbyModule/target/" />
+    <ignored path="$PROJECT_DIR$/MeetupManagerModule/target/" />
+    <ignored path="$PROJECT_DIR$/SimulatorQueues/target/" />
+    <ignored path="$PROJECT_DIR$/sLobby/target/" />
+    <ignored path="$PROJECT_DIR$/SimulatorIndependent/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Interac</find>
+      <find>Die</find>
+      <find>Async</find>
+      <find>JoinE</find>
+      <find>playerDie</find>
+      <find>setEnab</find>
+      <find />
+      <find>Food</find>
+      <find>Interact</find>
+      <find>interact</find>
+      <find>------------------------------</find>
+      <find>SCATTER</find>
+      <find />
+      <find>GamePreSta</find>
+      <find>FFA</find>
+      <find />
+      <find>Creatu</find>
+      <find>Congratu</find>
+      <find>teleport</find>
+      <find>setB</find>
+      <find />
+      <find>etRandomK</find>
+      <find>setwinner</find>
+      <find />
+      <find>health</find>
+      <find>getGenera</find>
+      <find />
+      <find>Prepro</find>
+      <find />
+      <find>Collector</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@</replace>
+      <replace>Gamemode</replace>
+      <replace>net.silexpvp.meetup</replace>
+      <replace />
+      <replace>&amp;7[&amp;6&amp;lBorder&amp;7]</replace>
+      <replace>&quot;&amp;7&amp;m-----------------&quot;</replace>
+      <replace>uhc_world</replace>
+      <replace>&quot;uhc_world&quot;</replace>
+      <replace>******************************</replace>
+      <replace>UHCMeetup</replace>
+      <replace>UHCMeetu</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Documentos\Sources\sUHCMeetup\MeetupModule\src\main\java\net\silexpvp\meetup\timer</dir>
+      <dir>D:\Documentos\Sources\sUHCMeetup\MeetupModule</dir>
+      <dir>D:\Documentos\Sources\sUHCMeetup</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/utils/command/CommandRegistrer.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/commands/manager/arguments/StatusArgument.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/commands/manager/ManagerCommand.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/SimulatorManager.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/servers/UHCSimulator.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/redis/RedisWrapper.java" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/pom.xml" />
+        <option value="$PROJECT_DIR$/MeetupManagerModule/src/main/java/net/silexpvp/simulatormanager/redis/RedisMessagingHandler.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/pom.xml" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/sQueues.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/utils/ItemBuilder.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/redis/RedisMessagingHandler.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/servers/ServerManager.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/FreezeCommand.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/profile/status/PlayerStatus.java" />
+        <option value="$PROJECT_DIR$/LobbyModule/src/main/java/net/silexpvp/uhclobby/UHCLobby.java" />
+        <option value="$PROJECT_DIR$/LobbyModule/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/UHCLobby.java" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/listener/LobbyListener.java" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/manager/redis/RedisMessagingHandler.java" />
+        <option value="$PROJECT_DIR$/sLobby/pom.xml" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/tasks/MenuTask.java" />
+        <option value="$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/manager/scoreboard/RScoreboardManager.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/listeners/PlayerListener.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/com/bizarrealex/aether/Aether.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/ChunkGenerator.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/border/BorderShrinkTask.java" />
+        <option value="$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/queue/QueueManager.java" />
+        <option value="$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/redis/RedisMessagingHandler.java" />
+        <option value="$PROJECT_DIR$/SimulatorIndependent/pom.xml" />
+        <option value="$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/mongo/ProfileManager.java" />
+        <option value="$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/SimulatorIndependent.java" />
+        <option value="$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/mongo/Profile.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/utils/command/CommandRegistrer.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/redis/RedisStatusTask.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/WorldGenerationListener.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/WorldGenerator.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/pom.xml" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/UHCMeetup.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/PlayerListener.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/PorvolaCommand.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/RerollCommand.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/game/GameManager.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/MLGCommand.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/profile/Profile.java" />
+        <option value="$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/utils/PlayerUtils.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="-6" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sUHCMeetup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sUHCMeetup" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="net.silexpvp.meetup.utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.silexpvp.queues.utils" />
+      <recent name="net.silexpvp.simulatormanager.utils" />
+      <recent name="net.silexpvp.uhclobby.menus" />
+      <recent name="net.silexpvp.uhclobby.manager.game" />
+      <recent name="net.silexpvp.meetup.misc.settings.arguments" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documentos\Sources\sUHCMeetup\MeetupModule\src\main\java\net\silexpvp\meetup\misc" />
+      <recent name="D:\Documentos\Sources\sUHCMeetup\SimulatorIndependent\src\main\java\net\silexpvp\independent" />
+      <recent name="D:\Documentos\Sources\sUHCMeetup\sLobby\src\main\java" />
+      <recent name="D:\Documentos\Sources\sUHCMeetup\SimulatorQueues\src\main\java\net\silexpvp\queues" />
+      <recent name="D:\Documentos\Sources\sUHCMeetup\MeetupManagerModule\src\main\java\net\silexpvp\simulatormanager\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e19cfd-b330-49e7-8737-ddc2739a733f" name="Default" comment="" />
+      <created>1530717483975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530717483975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32843137" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50075644" side_tool="true" weight="0.32843137" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" visible="true" weight="0.30718955" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="1" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.498366" visible="true" weight="0.22768533" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32843137" />
+      <window_info id="Structure" order="5" sideWeight="0.501634" side_tool="true" weight="0.27382752" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.498366" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="5" sideWeight="0.501634" side_tool="true" weight="0.27382752" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32843137" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49924356" weight="0.30718955" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50075644" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32843137" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/server/1.8.8-R0.2-SNAPSHOT/server-1.8.8-R0.2-SNAPSHOT.jar!/net/minecraft/server/v1_8_R3/PacketPlayOutScoreboardDisplayObjective.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/com/bizarrealex/aether/sidebars/FFASidebar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/com/bizarrealex/aether/Aether.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="156" column="57" selection-start-line="156" selection-start-column="57" selection-end-line="156" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/redis/RedisMessagingHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/ChunkGenerator.java" />
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/border/events/BorderShrinkEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/border/events/BorderShrinkSetEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/game/gamemode/Gamemode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/gamemodes/BowLessListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/gamemodes/RodLessListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/gamemodes/FireLessListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/DeathMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/github/paperspigot/paperspigot-api/1.7.10-R0.1-SNAPSHOT/paperspigot-api-1.7.10-R0.1-SNAPSHOT.jar!/org/bukkit/scheduler/BukkitRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/menus/GamesRunningMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/tasks/MenuTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/border/BorderShrinkTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="91" column="63" selection-start-line="91" selection-start-column="63" selection-end-line="91" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorQueues/src/main/java/net/silexpvp/queues/queue/QueueManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/redis/RedisWrapper.java" />
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/redis/RedisMessagingHandler.java" />
+    <entry file="file://$PROJECT_DIR$/sLobby/src/main/java/net/silexpvp/uhclobby/UHCLobby.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="70" column="46" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="70" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/resources/config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/mongo/ProfileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="40" column="61" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/SimulatorIndependent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="46" column="35" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimulatorIndependent/src/main/java/net/silexpvp/independent/mongo/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/StatsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/utils/command/CommandRegistrer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/profile/manager/ProfileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/redis/RedisStatusTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/api/1.8.8-R0.2-SNAPSHOT/api-1.8.8-R0.2-SNAPSHOT.jar!/org/bukkit/Bukkit.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="204" column="31" selection-start-line="204" selection-start-column="31" selection-end-line="204" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/WorldGenerationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/server/1.8.8-R0.2-SNAPSHOT/server-1.8.8-R0.2-SNAPSHOT.jar!/net/minecraft/server/v1_8_R3/World.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="117" selection-start-line="117" selection-end-line="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/api/1.8.8-R0.2-SNAPSHOT/api-1.8.8-R0.2-SNAPSHOT.jar!/org/bukkit/World.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="156" column="26" selection-start-line="156" selection-start-column="26" selection-end-line="156" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/api/1.8.8-R0.2-SNAPSHOT/api-1.8.8-R0.2-SNAPSHOT.jar!/org/bukkit/configuration/MemorySection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="137" column="17" selection-start-line="137" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/server/1.8.8-R0.2-SNAPSHOT/server-1.8.8-R0.2-SNAPSHOT.jar!/org/bukkit/craftbukkit/v1_8_R3/CraftWorld.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="848" column="35" selection-start-line="848" selection-start-column="35" selection-end-line="848" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/utils/cuboid/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/WorldGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="74" column="87" selection-start-line="74" selection-start-column="87" selection-end-line="74" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/server/1.8.8-R0.2-SNAPSHOT/server-1.8.8-R0.2-SNAPSHOT.jar!/net/minecraft/server/v1_8_R3/PacketHandshakingInListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/MeetupModule/pl.jar!/com/comphenix/protocol/PacketType.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="1030" column="87" selection-start-line="1030" selection-start-column="87" selection-end-line="1030" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/server/1.8.8-R0.2-SNAPSHOT/server-1.8.8-R0.2-SNAPSHOT.jar!/net/minecraft/server/v1_8_R3/PacketHandshakingInSetProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/techcable/tacospigot/api/1.8.8-R0.2-SNAPSHOT/api-1.8.8-R0.2-SNAPSHOT.jar!/org/bukkit/Color.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/UHCMeetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/PorvolaCommand.java" />
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/RerollCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/listeners/PlayerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6715">
+          <caret line="450" column="9" selection-start-line="450" selection-start-column="9" selection-end-line="450" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/game/GameManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="198" column="31" selection-start-line="198" selection-start-column="31" selection-end-line="198" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/misc/MLGCommand.java" />
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/profile/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MeetupModule/src/main/java/net/silexpvp/meetup/utils/PlayerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="64" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+          <folding>
+            <element signature="e#2920#2921#0" expanded="true" />
+            <element signature="e#2970#2971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sUHCMeetup</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

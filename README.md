@@ -1,1 +1,1 @@
-# javaee-plugins
+# Redis-Plugins-JavaEE
